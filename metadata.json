@@ -1,0 +1,6 @@
+{
+  "name": "Pronunciation Challenge",
+  "description": "Speak Clearly. Score Higher. Have Fun! Interactive English pronunciation classroom game powered by AI audio evaluation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
